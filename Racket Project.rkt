@@ -15,7 +15,6 @@
 (define background-color 'blue)
 (draw-solid-rect (make-posn 0 0) 600 600 background-color)
 
-;////////////////////////////Test
 ;/////////////////////////////////////////////////////////////////// trunk
 (define trunk-center-x 400)
 (define trunk-center-y 450)
